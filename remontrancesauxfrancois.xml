@@ -31,7 +31,7 @@
             <repository xml:lang="fr"><!-- Bibliothèque Nationale de France --></repository>
             <idno xml:lang="fr"><!--  ark:/12148/bpt6k794716 --></idno>
           </msIdentifier>
-          <head><!-- Remontrancesaux François --></head>
+          <head><!-- Remontrances aux François --></head>
           <msContents>
             <summary>
               <p><!-- Remontrance redigée pendant les guerres de religion  --></p> 
@@ -74,12 +74,10 @@
     <text>
       <body>
         <div>
-          <p>
-            <fw type="header" place="top-center"><lb/>REMONSTRANCE<lb/> AUX FRANçOIS, POUR <lb/>les induire à vivre  
+            <head type="title" place="top-center" ><lb/>REMONSTRANCE<lb/> AUX FRANçOIS, POUR <lb/>les induire à vivre  
             <choice><orig>en paix à l'advenir</orig><reg> en paix à l'avenir </reg></choice><lb/>
-            </fw>
-          </p>
-       
+            </head>
+                 
         <p>
         <lb/><placeName ref="loc010601">A PARIS,</placeName>
           

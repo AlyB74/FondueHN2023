@@ -1,5 +1,4 @@
 *{
-    
     text-align: center;
   text-justify: inter-word;
 }
@@ -8,4 +7,12 @@ div.pagebreak
 {
     margin-top:10px;
     float:none;
+}
+body.simple{
+  background-color: lightgrey;
+  color: black;
+}
+#index\.xml-group\.1_text\.1_body\.1_div\.1 h2
+{
+    font-size:50px;
 }
