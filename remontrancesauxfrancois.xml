@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"
   xml:lang="de" xmlns:ssrq="http://ssrq-sds-fds.ch/ns/nonTEI">
   <teiHeader>
@@ -20,7 +20,7 @@
       </titleStmt>
       <publicationStmt>
         <publisher>SSRQ-SDS-FDS</publisher>
-        <date type="electronic" when="2022"/>
+        <date type="electronic" when="2023"/>
         <date type="print"/>
         <availability><p xml:id="facs">Staatsarchiv Freiburg (StAFR)</p><licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-
           ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence></availability>
