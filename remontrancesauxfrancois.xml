@@ -19,31 +19,23 @@
         </respStmt>
       </titleStmt>
       <publicationStmt>
-        <publisher>SSRQ-SDS-FDS</publisher>
+        <publisher>AB</publisher>
         <date type="electronic" when="2023"/>
         <date type="print"/>
-        <availability><p xml:id="facs">Staatsarchiv Freiburg (StAFR)</p><licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-
+        <availability><p xml:id="facs">https://github.com/AlyB74/FondueHN2023</p><licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-
           ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence></availability>
       </publicationStmt>
-      <seriesStmt xml:id="ssrq-sds-fds">
-        <title>Sammlung Schweizerischer Rechtsquellen</title>
-        <respStmt>
-          <orgName>Rechtsquellenstiftung des Schweizerischen Juristenvereins</orgName>
-          <resp>Herausgeberschaft</resp>
-        </respStmt>
-        <idno>SSRQ-FR-I_2_9-001-005</idno><!-- idno fictif à mettre ici, pour une question de validation du schéma -->
-      </seriesStmt>
-      <sourceDesc>
+           <sourceDesc>
         <msDesc>
           <msIdentifier>
-            <repository xml:lang="fr"><!-- dépôt d'Archives ou Bibliothèque --></repository>
-            <idno xml:lang="fr"><!-- cote du texte/document d'archives --></idno>
+            <repository xml:lang="fr"><!-- Bibliothèque Nationale de France --></repository>
+            <idno xml:lang="fr"><!--  ark:/12148/bpt6k794716 --></idno>
           </msIdentifier>
-          <head><!-- titre de votre texte (à donner vous-mêmes: il doit être court et compréhensible --></head>
+          <head><!-- Remontrancesaux François --></head>
           <msContents>
             <summary>
-              <p><!-- résumé/regeste de votre texte en langue moderne --></p> 
-              <p><!-- idem, mais éventuellement sous forme traduite selon les besoins --></p>
+              <p><!-- Remontrance redigée pendant les guerres de religion  --></p> 
+              <p><!-- Appel à la paix --></p>
             </summary> 
             <msItem>
               <textLang xml:lang="fr"/>
@@ -57,7 +49,7 @@
           </physDesc>
           <history>
             <origin>
-              <origDate><!-- date de votre texte, exprimé selon norme ISO: année-mois-jour --></origDate> 
+              <origDate><!-- 1585-01-01 --></origDate> 
               <origPlace></origPlace>
             </origin>
           </history>
@@ -71,13 +63,9 @@
         </msDesc>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc><editorialDecl><p><ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/></p></editorialDecl></encodingDesc>
-    <profileDesc>
+       <profileDesc>
       <textClass default="false">
-        <keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
-          <term/>
-        </keywords>
-      </textClass>
+              </textClass>
       </profileDesc>
   </teiHeader>
   
