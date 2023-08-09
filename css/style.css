@@ -1,0 +1,11 @@
+*{
+    
+    text-align: center;
+  text-justify: inter-word;
+}
+span.pagebreak,
+div.pagebreak
+{
+    margin-top:10px;
+    float:none;
+}
