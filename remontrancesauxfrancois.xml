@@ -1,0 +1,629 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"
+  xml:lang="de" xmlns:ssrq="http://ssrq-sds-fds.ch/ns/nonTEI">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Edition des REMONSTRANCE
+          AUX FRANçOIS, POUR les induire à vivre en paix à l'advenir </title>
+        <editor>
+          <persName>Bianco Alyzé</persName>
+        </editor>
+        <respStmt>
+          <persName>Bianco Alyzé </persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Bianco Alyzé</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>SSRQ-SDS-FDS</publisher>
+        <date type="electronic" when="2022"/>
+        <date type="print"/>
+        <availability><p xml:id="facs">Staatsarchiv Freiburg (StAFR)</p><licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-
+          ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence></availability>
+      </publicationStmt>
+      <seriesStmt xml:id="ssrq-sds-fds">
+        <title>Sammlung Schweizerischer Rechtsquellen</title>
+        <respStmt>
+          <orgName>Rechtsquellenstiftung des Schweizerischen Juristenvereins</orgName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>SSRQ-FR-I_2_9-001-005</idno><!-- idno fictif à mettre ici, pour une question de validation du schéma -->
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <repository xml:lang="fr"><!-- dépôt d'Archives ou Bibliothèque --></repository>
+            <idno xml:lang="fr"><!-- cote du texte/document d'archives --></idno>
+          </msIdentifier>
+          <head><!-- titre de votre texte (à donner vous-mêmes: il doit être court et compréhensible --></head>
+          <msContents>
+            <summary>
+              <p><!-- résumé/regeste de votre texte en langue moderne --></p> 
+              <p><!-- idem, mais éventuellement sous forme traduite selon les besoins --></p>
+            </summary> 
+            <msItem>
+              <textLang xml:lang="fr"/>
+              <filiation type="current"></filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc><support><material>papier</material></support></supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate><!-- date de votre texte, exprimé selon norme ISO: année-mois-jour --></origDate> 
+              <origPlace></origPlace>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head></head>
+              <bibl></bibl>
+            </listBibl>
+            
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc><editorialDecl><p><ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/></p></editorialDecl></encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+        <keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+          <term/>
+        </keywords>
+      </textClass>
+      </profileDesc>
+  </teiHeader>
+  
+<text>
+  <group>
+    <text>
+      <body>
+        <div>
+          <p>
+            <fw type="header" place="top-center"><lb/>REMONSTRANCE<lb/> AUX FRANçOIS, POUR <lb/>les induire à vivre  
+            <choice><orig>en paix à l'advenir</orig><reg> en paix à l'avenir </reg></choice><lb/>
+            </fw>
+          </p>
+       
+        <p>
+        <lb/><placeName ref="loc010601">A PARIS,</placeName>
+          
+          <lb/>Chez Pierre Jobert, marchand Li
+          <lb break="no"/>braire pres sainct cosme , et sur le
+          <lb/>quay des Augustins.
+          <lb/><date>1585</date>.
+          <lb/>Avec permission du Roy.
+        </p>
+        <pb/>
+        </div>
+        <div>
+          <head type="subtitle">REMONSTRANCE AUX
+          FRANCOIS, POUR LES
+          induire à vivre en paix.
+          à <choice><orig>l’advenir</orig><reg>l'avenir</reg></choice>
+          </head>
+        
+          <p>Iusques à quand,
+            <lb/>Françoys <note> signifie français</note>, iusques à
+            <lb/>quand voulez-vous
+            <lb/>demeurer armez les
+            <lb/>uns contre les autres?
+            <lb/>iusques à quand vou-
+            <lb/>lez-vous prolonger vos guerres ci-
+            <lb/>viles <ref target="https://museeprotestant.org/notice/les-huit-guerres-de-religion-1562-1598/"></ref> ? iufques à quand voulez-vous
+            <lb/>nourrir entre vous tant de divisions
+            <choice><abbr>&amp;</abbr><expan>et</expan></choice> partialitez ? N’este-vous ennuyez
+            <lb/>de vous poursuyvre? n'estes-vous las
+            <lb/>de combattre n’estes-vous contés des
+            <lb/>cendres de vos maisons ? n’avez vous
+            <lb/>horreur de voir voz mains ensanglan-
+            <lb/>tees de vostre propre sang ? n’avez <pb/>
+            <lb/> vous regret à la perte de voz vies <choice><abbr>&amp;</abbr><expan>et</expan></choice> de
+            <lb/> voz biès' navez pitié de vous mesmes
+            <lb/> Quelle occasion vous anime tellement
+            <lb/>les uns contre les autres' quelle furent
+            <lb/>vous arme' quelle rage vous pousse
+            <lb/>A quoy pensez-vous' que faistes-vous'
+            <lb/>Ouel est le but de voz desseings' La
+            <lb/>longueur du temps qui adoulcit tou-
+            <lb/>tes choses ne vous peult elle retirer de
+            <lb/>voz animositez? La perte de voz biens
+            <lb/>qui vous doit estre facheuse, ne vous
+            <lb/>peult-elle destourver de voz entrepri
+            <lb/>ses ? La ruine de vostre païs qui vous
+            <lb/>doit estre insuportable, ne vous peult
+            <lb/>elle esmouvoir ? Que ne considerez
+            <lb/>vous la misere <choice><abbr>&amp;</abbr><expan>et</expan></choice> exterme calamitéen
+            <lb/>laquelle vous estes reduits ? Quen ad-
+            <lb/>visez-vous le danger auquel vous-vous
+            <lb/>precjpitez' Que ne decouvrez- vous
+            <lb/>voz voisins  <choice><abbr>&amp;</abbr><expan>et</expan></choice> anciens ennemis qui
+            <lb/>espient l’occasion pour vous courir sus
+            <lb/>quand vous serez affoiblis Cessez, Fra-
+            <lb/>Aii <pb/>
+            <lb/>çoys, cessez voz cruels combats : mettez
+            <lb/>fin à voz sanglantes guerres: esteindez
+            <lb/>le feu qui brusle <choice><abbr>&amp;</abbr><expan>et</expan></choice> consomme voz pro-
+            <lb/>pres maisons. Reprenez vostre accou-
+            <lb/> stumee prudence, <choice><abbr>&amp;</abbr><expan>et</expan></choice> prevoiez la totalle
+            <lb/> ruine de vostre pauvre pays. Prevoiez
+            <lb/>la perte de vostre liberté:  prevoyez la
+            <lb/>misere de voz cheres femmes <choice><abbr>&amp;</abbr><expan>et</expan></choice> ten-
+            <lb/> dres enfans : Souvenez-vous quels
+            <lb/>vous avez efté : comparez le passé avec
+            <lb/>le present, <choice><abbr>&amp;</abbr><expan>et</expan></choice> iugez de combien cefte
+            <lb/>France est changee depuis voz guerres
+            <lb/>civiles. Considerez en quel estat vous
+            <lb/>estes : Recognoissez vous un peu en li-
+            <lb/>sant ce discours, à fin que si quelque pre-
+            <lb/>rexte vous eschauffe le cœur, si quel-
+            <lb/>que , ou publique, ou privee occasion
+            <lb/>vous incite à une immortelle guerre:
+            <lb/>que la souvenace de la felicité, en la-
+            <lb/> quelle vous estiez, que la douleur des
+            <lb/> maux que vous avez soufferts, que l’espe-
+            <lb/>rance que devez avoir de vous revoir <pb/>
+            <lb/>encores une fois bien heureux en ce
+            <lb/>grand <choice><abbr>&amp;</abbr><expan>et</expan></choice> iadis florissant Empire, excitent
+            <lb/> en vous un desir de la paix, laquelle seule
+            <lb/>vous peut rendre le contentement qui
+            <lb/>vous a esté osté par la longueur de voz
+            <lb/>cruelles guerres. Guerres qui ont faict
+            <lb/>en vous un si estrange changement, qu’il
+            <lb/>eft maintenant presque impossible de
+            <lb/>vous recognoistre pour vrais <choice><abbr>&amp;</abbr><expan>et</expan></choice> natu-
+            <lb/>rels François. Car qui eft celuy qui peut
+            <lb/>remarquer en vous chose qui approche
+            <lb/>des meurs de ceux desquels vous vous
+            <lb/>vantez estre descendus ? Qui vous dira
+            <lb/>de la race de ceux lesquels entre toutes
+            <lb/>les nations ont esté estimez humains,
+            <lb/>doux, benings, accostables, ouverts,
+            <lb/>plaisans, <choice><abbr>&amp;</abbr><expan>et</expan></choice> nullement soupçonneux,
+            <lb/>puis-que par voz guerres vous vous
+            <lb/>estes rendus inhumains, severes, impi-
+            <lb/>toiables, farouches, dissimulez, mor-
+            <lb/>nes <choice><abbr>&amp;</abbr><expan>et</expan></choice> soupçonneux ? Qui sera celuy qui
+            <lb/>lisant en voz histoires les voyages, les
+            <lb/>ᗅ ii <pb/>
+            <lb/>entreprises, les guerres meurement
+            <lb/>commencees par voz peres, heureu-
+            <lb/>sement conduites <choice><abbr>&amp;</abbr><expan>et</expan></choice> achevees en Alle-
+            <lb/>maigne, Angleterre, Flandres, Italie,
+            <lb/>Espaigne, <choice><abbr>&amp;</abbr><expan>et</expan></choice> tant en Europe qu’en Asie
+            <lb/>qui pourra estimer, encores moins
+            <lb/>croire, que soyez enfans de si sages <choice><abbr>&amp;</abbr><expan>et</expan></choice>
+            <lb/>bien advisez chevalier qui s’unissoient
+            <lb/><choice><abbr>&amp;</abbr><expan>et</expan></choice> accordoient entre-eux pour aggran-
+            <lb/>dir leur païs, puis que vous vous divi
+            <lb/>sez <choice><abbr>&amp;</abbr><expan>et</expan></choice> mandez de toutes pars des estran-
+            <lb/>gers pour devorer ceste belle <choice><abbr>&amp;</abbr><expan>et</expan></choice> riche
+            <lb/>succession qui vous avoit esté acquise
+            <lb/>avec un si grand travail Qui se pourra
+            <lb/>presuader que soyez engendrez d’au-
+            <lb/>tres que des Scythes  <choice><abbr>&amp;</abbr><expan>et</expan></choice> Barbares, ou
+            <lb/>plus tost de quelques bestes cruelles,
+            <lb/>vous voyant ainsi acharnez les uns con-
+            <lb/>tre les autres. Qui vous iugera autres
+            <lb/>que bastards, puis-que ne retenez, n’y
+            <lb/>moeurs, ny facon, ny maniere de fai-
+            <lb/>re de ceux que vous dictes estre voz <pb/>
+            <lb/>peres ? Ils n’avoient autre desir que de
+            <lb/>commander <choice><abbr>&amp;</abbr><expan>et</expan></choice> donner la loy à ceux
+            <lb/>mesmes qui estoient estimez les plus
+            <lb/>puissans: Et vous inuirez des varletz
+            <lb/>des larrons, <choice><abbr>&amp;</abbr><expan>et</expan></choice> rebut des peuples pour
+            <lb/>commander <choice><abbr>&amp;</abbr><expan>et</expan></choice> vous donnes la loy en
+            <lb/>vostre propre païs. Ils se faisoient re-
+            <lb/>doubter de tous: il n'ya si petit que ne
+            <lb/>craigniez. Ils cherchoient les moyens
+            <lb/>de dompter leurs voysins : <choice><abbr>&amp;</abbr><expan>et</expan></choice> vous les
+            <lb/>recherchez pour vous domprer. Ils
+            <lb/>rembaroient courageusemet ceux qui
+            <lb/>vouloient usurper <choice><abbr>&amp;</abbr><expan>et</expan></choice> entrepreendre sur
+            <lb/>euz: <choice><abbr>&amp;</abbr><expan>et</expan></choice> vous les allez querir <choice><abbr>&amp;</abbr><expan>et</expan></choice> donnez
+            <lb/>libre entree. Ils faisoient resentir de lau-
+            <lb/>dace <choice><abbr>&amp;</abbr><expan>et</expan></choice> temerité à ceux qui par trop
+            <lb/>osez, s'estoient tuez en leur prys <choice><abbr>&amp;</abbr><expan>et</expan></choice> vous
+            <lb/>caressez ceux qui de part <choice><abbr>&amp;</abbr><expan>et</expan></choice> dautre
+            <lb/>vous ont pillez, <choice><abbr>&amp;</abbr><expan>et</expan></choice> par vostre doux trai-
+            <lb/>stement les conviez à revenir, Voz pe
+            <lb/>res se delectoient à bastir de superbes
+            <lb/>chasteaux <choice><abbr>&amp;</abbr><expan>et</expan></choice> maisons de plaisance : <choice><abbr>&amp;</abbr><expan>et</expan></choice> <pb/>
+            <lb/>vous vous esbatez à les voir brusler <choice><abbr>&amp;</abbr><expan>et</expan></choice>
+            <lb/>ruiner. Ils estoient aymez, honnorez <choice><abbr>&amp;</abbr><expan>et</expan></choice>
+            <lb/>suyvis de leurs subiects, <choice><abbr>&amp;</abbr><expan>et</expan></choice> vous estes
+            <lb/>hays, crains <choice><abbr>&amp;</abbr><expan>et</expan></choice> fuys des vostres. Ils en-
+            <lb/>tretenoient leurs villages <choice><abbr>&amp;</abbr><expan>et</expan></choice> gardoient
+            <lb/>leurs vassaux : Vous ruinez tout <choice><abbr>&amp;</abbr><expan>et</expan></choice> n’e-
+            <lb/>spargnez personne. Pourrez vous don-
+            <lb/>ques, vous glorifier en voz ancestres ?
+            <lb/>ne serez vous honteux de porter leur
+            <lb/>nom <choice><abbr>&amp;</abbr><expan>et</expan></choice> armes, puisque ne voulez imi-
+            <lb/>ter leur vertu ? Que dis-ie imiter leur
+            <lb/>vertu, si elle vous est odieuse ? ne vous
+            <lb/>estes vous mocquez de la doulceur des
+            <lb/>anciens François, qui n’offensoient
+            <lb/>ceux qui se rendoient à leur mercy,
+            <lb/>estans contens d’en tirer une rançon,<choice><abbr>&amp;</abbr><expan>et</expan></choice>
+            <lb/>avez voulu avoir <choice><abbr>&amp;</abbr><expan>et</expan></choice> la rançon <choice><abbr>&amp;</abbr><expan>et</expan></choice> la vie
+            <lb/>les uns des autres ? n’avez vous en voz
+            <lb/>guerres inhumainement tué les fem-
+            <lb/>mes, lesquelles par commiseration a-
+            <lb/>voient de tout temps esté sauvees <choice><abbr>&amp;</abbr><expan>et</expan></choice>
+            <lb/>garenties de la fureur des armes ?  n’a-
+            <lb/>vez <pb/>
+            <lb/>vez vous fait mourir les petits enfans ?
+            <lb/>N’avez vous precipité, desmembré,
+            <lb/>bruslé, estouffé, hacquebusé <choice><abbr>&amp;</abbr><expan>et</expan></choice> exposé
+            <lb/>aux bestes ceux que vous estimez estre
+            <lb/>voz ennemis ? Quel genre de cruauté,
+            <lb/>quelle espece de tourment, quelle sor-
+            <lb/>te de supplice n’avez vous inventé pour
+            <lb/>vous tiraniser ? quels nouveaux moiens
+            <lb/>n’avez vous trouvé pour vous tour-
+            <lb/>menter ? qu’avez vous oublié? Que re-
+            <lb/>ste-il dequoy n’ayez faict experience
+            <lb/>plus cruelle sur vous, que n’eussiez vou
+            <lb/>lu faire sur les plus vieils <choice><abbr>&amp;</abbr><expan>et</expan></choice> iurez enne
+            <lb/>mis de voftre pays ? Nouvelle <choice><abbr>&amp;</abbr><expan>et</expan></choice> in-
+            <lb/>croiable metamorphorse, si la plaie, si
+            <lb/>le sang qui coule encores, si la douleur,
+            <lb/>si le feu qui n’est estainct, ne contrai--
+            <lb/>gnoient chacun de croire ce qui est
+            <lb/>esloigné de toute humanité <choice><abbr>&amp;</abbr><expan>et</expan></choice> contrai-
+            <lb/>re au naturel des François. Cas estran-
+            <lb/>ge, <choice><abbr>&amp;</abbr><expan>et</expan></choice> par cy devant non entendu ny
+            <lb/>leu en voz Annales. Que d’une si rare
+            <lb/>B <pb/>
+            <lb/>douceur, d’une si grande courtoisie,
+            <lb/>d’une si extreme bonte qui vous faisoit
+            <lb/>aymer <choice><abbr>&amp;</abbr><expan>et</expan></choice> rechercher de tous les peu-
+            <lb/>ples, vous soyez tombez en une si estran-
+            <lb/>ge cruauté, que vous estes odieux à
+            <lb/>vous mesmes,<choice><abbr>&amp;</abbr><expan>et</expan></choice> fuyez les uns devant les
+            <lb/>autres. voyla Françoys, voyla les pre-
+            <lb/>mieres fleurs de voz guerres civiles,
+            <lb/>desquelles si vous goustez le fruict,
+            <lb/>vous sentirez l'estat de vostre pays du
+            <lb/>tout alteré <choice><abbr>&amp;</abbr><expan>et</expan></choice> changé, <choice><abbr>&amp;</abbr><expan>et</expan></choice> ferez contrains
+            <lb/>de confesser que vons n'estes plus en
+            <lb/>ceste France, si bien policee, regie, <choice><abbr>&amp;</abbr><expan>et</expan></choice>
+            <lb/>gouvernce par le passé, laquelle ser-
+            <lb/>voit de patron aux peuples voisins
+            <lb/>pour reigler leurs Royaumes <choice><abbr>&amp;</abbr><expan>et</expan></choice> bien
+            <lb/>conduire leurs affaire. Vous trouve-
+            <lb/>rez <choice><abbr>&amp;</abbr><expan>et</expan></choice> direz non sans honte <choice><abbr>&amp;</abbr><expan>et</expan></choice> regret
+            <lb/>que le bon ordre qui avoit esté establi
+            <lb/>d’un commun consentement, a esté par u-
+            <lb/>ne commune dissention du tout perverty
+            <lb/>Lors le Roy estoit aymé <choice><abbr>&amp;</abbr><expan>et</expan></choice> respecté <pb/>
+            <lb/>des plus grands, suivy et reveré de la
+            <lb/>noblesse, crainct et obey de son peu-
+            <lb/>ple. Les Princes et Seigneurs estoient
+            <lb/>redoubtez et honorez : la Noblesse
+            <lb/>cherie : le magistrat authorizé : le mar-
+            <lb/>chand maintenu : le peuple soulage :
+            <lb/>maintenant chacun veut ce qu’il peult
+            <lb/>celui est obey qui est le plus fort : la
+            <lb/>Noblesse respectee si elle est furieuse :
+            <lb/>le magistrat autorizé s'il est le mieux
+            <lb/>orme le marchand maintenu s'il se
+            <lb/>peut bien deffendre le peuple soula-
+            <lb/>gé s'il ne se veult laisser fouler. Lors le
+            <lb/>soldat estoit soubz les loix de la guer-
+            <lb/>re, et obeissoit à son chef: maintenant
+            <lb/>il n’a loy que celle qu’il se donne, <choice><abbr>&amp;</abbr><expan>et</expan></choice> se
+            <lb/>faict craindre <choice><abbr>&amp;</abbr><expan>et</expan></choice> obeyr pour l’asseura-
+            <lb/>ce qu’il prend, que se desbandant d’un
+            <lb/>party, il sera bieen receu à lautre. Les ar-
+            <lb/>mes estoyent pour vous deffendre, <choice><abbr>&amp;</abbr><expan>et</expan></choice>
+            <lb/>les soldats pour vous garde. Par voz
+            <lb/>armes mesmes vous-vous destruisez,
+            <lb/>B ii <pb/>
+            <lb/>voz foldats veus pillét. Le mefchat.
+            <lb/>en quelque lieu qu’il fust du Royau-
+            <lb/>me ne se tenoit asseuré, maintenant il
+            <lb/>vit en asseurance, si, sortant d’nn costé,
+            <lb/>il se peut ranger à l’autre. Les vivres se
+            <lb/>vendoient à certain prix, <choice><abbr>&amp;</abbr><expan>et</expan></choice> non l’ap-
+            <lb/>petit desordoonné de l’avare marchand:
+            <lb/>la monnoie n’estoit subiecte à lestima-
+            <lb/>tion du peuple les larcins, les adulte-
+            <lb/>res, les pilleries estoient punies: main-
+            <lb/>tenant le marchand met le prix à tou-
+            <lb/>res choses : la monnoye a son cours se-
+            <lb/>lon l’estimation du peuple : les fautes
+            <lb/>demeurent impunies <choice><abbr>&amp;</abbr><expan>et</expan></choice> tout est en con-
+            <lb/>fusion <choice><abbr>&amp;</abbr><expan>et</expan></choice> desordre, estant impossible
+            <lb/>entre les armes remettre la France
+            <lb/>en son premier estat, <choice><abbr>&amp;</abbr><expan>et</expan></choice> restablir un
+            <lb/>bon ordre . Que si passans plus oultre,
+            <lb/>vous voulez vous resouvenir du passé,
+            <lb/><choice><abbr>&amp;</abbr><expan>et</expan></choice> ramentevoir la grande abondance de
+            <lb/>toutes choses, en laquelle vous estiez
+            <lb/>que direz-vous les uns aux autres <pb/>
+            <lb/>n’aurez-vous occasion de vous recon-
+            <lb/>gnoistre <choice><abbr>&amp;</abbr><expan>et</expan></choice> parler ainsi ensemble ?
+            <lb/>Qu’avons nous faict ? enquel estat nous
+            <lb/>sommes nous mis ? pouquoy nous
+            <lb/>sommes nous privez de cest heur au-
+            <lb/>quel nous estions ? pourquoy avons
+            <lb/>nous en despit les uns des autres faict
+            <lb/>si grand degast de noz vivres ? comment
+            <lb/>avons nous esté si mal advifez de don-
+            <lb/>ner de l’argent aux estrangers pour
+            <lb/>nous battre? pourquoy les avons nous
+            <lb/>appellez pour nous piller <choice><abbr>&amp;</abbr><expan>et</expan></choice> fourager
+            <lb/>nostre païs pourquoy les avons-nous
+            <lb/>aydez à charger leurs chariots <choice><abbr>&amp;</abbr><expan>et</expan></choice> but-
+            <lb/>tiner tant sur nous ? Devant que nous
+            <lb/>eussions commencé ceste malheureu-
+            <lb/>se guerre nous estions si heureux, nous
+            <lb/>vivions si bien à nostre aise, nous avions
+            <lb/>si bon marché de toutes choses: le bled
+            <lb/>le vin, les viandes ne valloient la tierce
+            <lb/>partie de ce qu'elles vallent maintenant :
+            <lb/>nous avions tout en si grande abon-
+            <lb/>B iij <pb/>
+            <lb/>dance que nous pouvions accomo-
+            <lb/>der noz voisins, il ny avoit si pauvre
+            <lb/>qui n’eust moyen de vivre. Les estoffes
+            <lb/>les habits estoient à pris raisonnable
+            <lb/>Nous avions les plus beaux bastimens
+            <lb/>qu’il estoit possible de voir On ne par
+            <lb/>loit que de se resiouyrles uns avec les
+            <lb/>autres sans offenser personne : on s’en-
+            <lb/>tr’aimoit on se hattoit, on s’entr'aidoit
+            <lb/>in alloit en toute asseurance par païs
+            <lb/>pour faire ses affaires, on n’oyoit par-
+            <lb/>ler de tant de pauvretez <choice><abbr>&amp;</abbr><expan>et</expan></choice> cruautez,
+            <lb/>on ne voyoit tant de voleurs, on gar-
+            <lb/>doit la maison de son voisin comme la
+            <lb/>sienne Mais maintenant ou que tout est
+            <lb/>bien changé ? nous sommes les plus
+            <lb/>mal’heureux du monde, noz terres sont
+            <lb/>demeurees desertes, noz vignes en fri
+            <lb/>che, noz iardins sans cultiver : toutes
+            <lb/>choses sont extremement cheres, la
+            <lb/>pluspart du pauvre peuple meurt de
+            <lb/>faim : les villageois qui vivoient à leur <pb/>
+            <lb/>aise sont reduits en ceste extreme ne-
+            <lb/>cessité <choice><abbr>&amp;</abbr><expan>et</expan></choice> misere qu’ils paissent avec les
+            <lb/>bestes brutes : on ne leur laisse rien, ils
+            <lb/>sont racçonnez, eschaudez, battus,
+            <lb/>frappez <choice><abbr>&amp;</abbr><expan>et</expan></choice> le plus souvent tuez, sils ne
+            <lb/>treuvent ce qu’on leur demande. Leurs.
+            <lb/>maisons sont pillees, leurs femmes for-
+            <lb/>cees, leurs filles violees : on ne leur lais-
+            <lb/>se pas un cheval, pas une brebis, <choice><abbr>&amp;</abbr><expan>et</expan></choice> le
+            <lb/>plus souvent demeurent si fort outra-
+            <lb/>gez, qu’il ne leur restent rien que la lan-
+            <lb/>gue pour se plaindre, <choice><abbr>&amp;</abbr><expan>et</expan></choice> les yeux pour
+            <lb/>pleurer leur pauvreté <choice><abbr>&amp;</abbr><expan>et</expan></choice> misere On ne
+            <lb/>recognoist plus la puissance du Roy,
+            <lb/>l’authorité des Princes, les commande-
+            <lb/>mens des Capitaines. Les soldats vivent
+            <lb/>non à discretion, mais avec toute indi
+            <lb/>scretion, <choice><abbr>&amp;</abbr><expan>et</expan></choice> gastent tout par les champs.
+            <lb/>Il n'y a plus d’argent en France. Tel
+            <lb/>estoit riche qui demande auiourd’huy
+            <lb/>l'aumosne : tel avoit mil escus en bour
+            <lb/>se, qui n’a pas auiourd’huy vaillant un <pb/>
+            <lb/>folt : tel estoit bien logé, qui n'a pas
+            <lb/>une estable pour se retirer. On ne s'en-
+            <lb/>tr’ayme plus : on ne se hâte plus : on ne
+            <lb/>se resiouyst plus comme on faisoit : on
+            <lb/>ne sçait à qui se fier on ne s’ose mettre
+            <lb/>aux champs : c'est à qui desrobera le
+            <lb/>mieux, à qui pillera, à qui mettera le-
+            <lb/>feu en la maison de son voisin. Chacun
+            <lb/>se plaint : il n’i-a celuy qui ne se sente de
+            <lb/>la guerre, tout le monde est destruict.
+            <lb/>Que si vous voulez, François, conferer
+            <lb/>ainsi les uns avec les autres si vous con-
+            <lb/>parez le temps passé avec le present, ne
+            <lb/>vous condemnerez-vous vous mesmes ?
+            <lb/>ne direz, en rougissant de la faute que
+            <lb/>vous avez faicte, <choice><abbr>&amp;</abbr><expan>et</expan></choice> pleurant de com-
+            <lb/>miseration que vous aurez les uns des
+            <lb/>autres, ô que nous sommes de grands
+            <lb/>fols, que nous sommes mal advifez de
+            <lb/>nous ruïner ainsi. Qu'avons-nous gaigné
+            <lb/>à nous battre ? quel bien nous est reve-
+            <lb/>nu d’une si longue guerre? quel conten-
+            <lb/>tement <pb/>
+            <lb/>tement en pouvons nous recevoir ? nous
+            <lb/>avions tant de vivres, <choice><abbr>&amp;</abbr><expan>et</expan></choice> nous mourons de
+            <lb/>faim : nous avions tant d’or <choice><abbr>&amp;</abbr><expan>et</expan></choice> d’argent
+            <lb/><choice><abbr>&amp;</abbr><expan>et</expan></choice> nous n’avons plus rien. Nous estions
+            <lb/>si bien meublez, <choice><abbr>&amp;</abbr><expan>et</expan></choice> nous n’avons pas un
+            <lb/>lict pour nous coucher :nous estions si
+            <lb/>gaillards, <choice><abbr>&amp;</abbr><expan>et</expan></choice> nous n’en pouvons plus.
+            <lb/>Ainsi, François, ainsi vous ramenteuans
+            <lb/>le bien que vous avez perdu, <choice><abbr>&amp;</abbr><expan>et</expan></choice> le mal
+            <lb/>auquel estes tombez, serez-vous de-
+            <lb/>Stournez de vos cruelles guerres ? Ainsi
+            <lb/>renovellant souvent la douleur, tasche-
+            <lb/>rez-vous à y donner remede ? Ainsi co-
+            <lb/>ferant les uns avec les autres, pourrez
+            <lb/>vous iuger que ceux qui empeschent
+            <lb/>vostre reconciliation sont ennemis de
+            <lb/>vostre repos. Ainsi descouvrirez-vous
+            <lb/>que ceux qui vous veulent entretenir
+            <lb/>en divisvion, <choice><abbr>&amp;</abbr><expan>et</expan></choice> se presentent pour se-
+            <lb/>courir les uns <choice><abbr>&amp;</abbr><expan>et</expan></choice> les autres, ne deman-
+            <lb/>dent sinon à s'enrichir de vos thresors,
+            <lb/>se braver de vos despouilles, <choice><abbr>&amp;</abbr><expan>et</expan></choice> des
+            C <pb/>
+            <lb/>ruïnes de voz maisons, se bastir de su-
+            <lb/>perbes chasteaux. Que s’il y-a quelque
+            <lb/>vray <choice><abbr>&amp;</abbr><expan>et</expan></choice> naturel Françoys, qui soit, ou
+            <lb/>si obstiné qu’il ne vueille devenir sage
+            <lb/>à ses despens ou tant accoustumé aux
+            <lb/>armes, qu’il ne se puisse tenir de de-
+            <lb/>mener les mains, onsi fort animé qu’il
+            <lb/>ne se puisse appaiser : qu’il me respon-
+            <lb/>de <choice><abbr>&amp;</abbr><expan>et</expan></choice> nomme un seul d’entre vous qui
+            <lb/>aye beaucoup gaigné en ceste guerre
+            <lb/>Tous le vivres sont devorez, tous les
+            <lb/>thesors espuisez, tous voz meubles
+            <lb/>perdus : quel d’entre vous en est plus
+            <lb/>gras, plus riche <choice><abbr>&amp;</abbr><expan>et</expan></choice> mieux meublé ? Vo-
+            <lb/>stre revenu consommé, voz villages
+            <lb/>bruslez, voz villes desolees ? Quel plai-
+            <lb/>sir, quel contentement, qu’elle confo-
+            <lb/>lation en recevez vous ? Tant d’illustres,
+            <lb/>vertueux <choice><abbr>&amp;</abbr><expan>et</expan></choice> genereux Princes tuez tant
+            <lb/>de braves seigneurs <choice><abbr>&amp;</abbr><expan>et</expan></choice> vaillants Capi-
+            <lb/>aaines perdus, tant de millions de cou-
+            <lb/>gareux <choice><abbr>&amp;</abbr><expan>et</expan></choice> hardis soldats morts, estro- <pb/>
+            <lb/>piez, harassez ? Quel d’eentre vous en est
+            <lb/>plus asseuré <choice><abbr>&amp;</abbr><expan>et</expan></choice> moins en danger. Les
+            <lb/>ports, les passages, les destrois ont esté
+            <lb/>descouuerts aux estrangers : quel bien
+            <lb/>vous en peult-il revenir ? Tant de de-
+            <lb/>niers desboursez à qui est demeuree la
+            <lb/>meilleure part ? Tant de villes pillees :
+            <lb/>qui y a le plus gaigné ? Tant de chariots
+            <lb/>chargez à qui en revient le prouffit ?
+            <lb/>Taut de femmes forcees ? qui en recoit
+            <lb/>le desbonneur? Tant de peuple fuiant
+            <lb/>devant les estrangers : fur qui en redon-
+            <lb/>de la honte ? Ils vous ont menassé en
+            <lb/>vostre propre païs : n’en ferez vour pas
+            <lb/>moins prisez ? ils vons ont bravez en
+            <lb/>voz trouppes n’en serez vous pas blas-
+            <lb/>mez ? Qui a donques receu proufit, con-
+            <lb/>tentement, honneur de voz guerres ci-
+            <lb/>viles sinon l'estranger ? Qui en a porté
+            <lb/>la perte, enduré le mal, receu le deshon-
+            <lb/>neur, sinon vous Francoys? Vous qui
+            <lb/>aviez la puissance de conquester avec
+            <lb/>C ii <pb/>
+            <lb/>proufit, plaifir s gloire, la monarchic.
+            <lb/>de tout le monde : Qui pouviez retour-
+            <lb/>ner riches, braves <choice><abbr>&amp;</abbr><expan>et</expan></choice> victorieux d’un
+            <lb/>pays estrange. Qui aviez au moins le
+            <lb/>moyen de conserver ce Royaume en
+            <lb/>sa grandeur : vous dis-ie l’auez presque
+            <lb/>perdu, vous vous estes a pauvris <choice><abbr>&amp;</abbr><expan>et</expan></choice> ren-
+            <lb/>dus ridicules aux estrangers. Faictes
+            <lb/>que l'amour que devez porter à vo-
+            <lb/>stre pays, vous destourne : Que la perte
+            <lb/>de voz vies, de voz bieens, de voz enfans
+            <lb/>vous esmeuve. Que l’honneur de voz
+            <lb/>femmes <choice><abbr>&amp;</abbr><expan>et</expan></choice> de voz filles vous excite :
+            <lb/>que vostre propre misere vous appai-
+            <lb/>se. Et puis qu’entre tant de maux, au
+            <lb/>millieu des tempestes <choice><abbr>&amp;</abbr><expan>et</expan></choice> orages de la
+            <lb/>guerre la plus cruelle qui feust onc-
+            <lb/>ques, toutes choses estant desesperees,
+            <lb/>vous avez un Roy qui vous veux met-
+            <lb/>tre en paix, qui desire vous maintenir
+            <lb/>en amitié les uns avec les autres, qui
+            <lb/>tasche par tous moyens de remettre <pb/>
+            <lb/>ce pauvre Royaume: qui s’estudie à
+            <lb/>vous soulager, qui s'efforce tant qu’il
+            <lb/>peult à oster ces sensues de dessus le
+            <lb/>corps de la France : obeyssez à ses com-
+            <lb/>mandemens, fuyuez sa bonne volon-
+            <lb/>té, <choice><abbr>&amp;</abbr><expan>et</expan></choice> vous asseurez quil vous remet-
+            <lb/>tra en une bonne paix : en laquelle si
+            <lb/>vous voulez longuement demeurer, ce
+            <lb/>que vous devez desirer, gardez vous
+            <lb/>d’entrer en suspicion les uns des autres,
+            <lb/>ne croyez ces r’apporteurs qui vous
+            <lb/>voudront mettre en deffiance. Advi-
+            <lb/>sez quels seront ceux qui vous con-
+            <lb/>seilleront de reprendre les armes, <choice><abbr>&amp;</abbr><expan>et</expan></choice> iu
+            <lb/>gez s'ils reçoivent plus de prouffit <choice><abbr>&amp;</abbr><expan>et</expan></choice>
+            <lb/>d’honneur de la guerre que de la paix :
+            <lb/>ne vous laissez persuader par les estran-
+            <lb/>gers, qui vous promettent le bois du-
+            <lb/>quel vous estes bruslez, qui vous che-
+            <lb/>rissent pour attraper vostre argent, qui
+            <lb/>feignent de vous aymer, a fin qu’ils soy¬
+            <lb/>ent heritiers de voftre pays. Que si le 
+            <lb/> C 3 <pb/>
+            <lb/>zele de l’honneur de Dieu <choice><abbr>&amp;</abbr><expan>et</expan></choice> de la reli-
+            <lb/>gion vous incite de part <choice><abbr>&amp;</abbr><expan>et</expan></choice> dautre, conside
+            <lb/>rez tous ensemble qu’au millieu des
+            <lb/>armes Dieu est plus tost blasphemé,
+            <lb/>qu’honnoré : <choice><abbr>&amp;</abbr><expan>et</expan></choice> que pendant voz guer-
+            <lb/>res la religion, la pieté, la iustice n’ont
+            <lb/>esté en revercnce. Si vous avez desir de
+            <lb/>revoir toutes choses policees, <choice><abbr>&amp;</abbr><expan>et</expan></choice> remi-
+            <lb/>ses en leur premier estat. Iugez en voy
+            <lb/>ant le desordre auquel pour la guerre
+            <lb/>vostre France est maintenant que les
+            <lb/>armes ne font pour reigler <choice><abbr>&amp;</abbr><expan>et</expan></choice> refor-
+            <lb/>mer, mais pour desreigler <choice><abbr>&amp;</abbr><expan>et</expan></choice> difformer
+            <lb/>toutes choses . Si un bien public vous
+            <lb/>pousse : vous voyez que les guerres ont
+            <lb/>apporté un mal commun, une perte
+            <lb/>publique, une ruine universelle. Chan-
+            <lb/>gez donques d’opinion, reformez voz
+            <lb/>conseils, posez les armes, ambrassez la
+            <lb/>paix. Et si à l'emple des autres vous n’a-
+            <lb/>vez encores peu devenir sages, que vo-
+            <lb/>stre propre exemple, que la peine, que <pb/>
+            <lb/>le travail, que la pauvreté que la deso-
+            <lb/>lation, que le feu, le sang, les cruault́ez
+            <lb/>que vous avez souffertes vous rendent
+            <lb/>mieux advisez à l’advenir. Vous eftes
+            <lb/>freres, vous estes parens, vous estes voy-
+            <lb/>sins : vous vivez en un mesme pays,
+            <lb/>sous mesmes loix, souz un mesme Roy
+            <lb/>le plus doux, le plus clement, le plus a-
+            <lb/>mateur de vostre repos que vous eu-
+            <lb/>sles onques accordezvous, vuidez vos
+            <lb/>differens amyablement, puis que les
+            <lb/>armes depuis seize ans ne vous ont peu
+            <lb/>accorder. Vous estes assez sages, sans
+            <lb/>appeller des estrangers pour arbitres,
+            <lb/>qui tireront de deux costez <choice><abbr>&amp;</abbr><expan>et</expan></choice> vous en-
+            <lb/>tretiendront en debats. Ils ne sont de
+            <lb/>mesme naturel que vous, de mesmes
+            <lb/>mœurs :  ils n’ont mesmes façons de
+            <lb/>faire, mesmes complexions, pour pou-
+            <lb/>voir iuger de voz affaires : ils ne vous
+            <lb/>cognoissent pas, mais seulemet vostre
+            <lb/>argent <choice><abbr>&amp;</abbr><expan>et</expan></choice> voz meubles : ils ne sçavent<pb/>
+            <lb/>les moyens de vous entretenir. Sinon
+            <lb/>en guerre.Il n'est possible qu’ils vous
+            <lb/>accordent, sion en ce que n’aurez les
+            <lb/>uns plus que les autres, <choice><abbr>&amp;</abbr><expan>et</expan></choice> eux empor-
+            <lb/>teront tout Vous seuls le pouvez faire
+            <lb/>si le voulez: <choice><abbr>&amp;</abbr><expan>et</expan></choice>  le devez vouloir, s’il
+            <lb/>reste en vous quelque sentiment, si
+            <lb/>estes esmeuz de la destruction devo-
+            <lb/>srre païs, si vous avez pitie de vos fem-
+            <lb/>mes, de vos enfans de vos familles : fi
+            <lb/>vous aymez vosgtre vie, voz biens, vo-
+            <lb/>stre liberté : si vous desirez vous re-
+            <lb/>voir encores bien heureux, aymez,
+            <lb/>craincts, <choice><abbr>&amp;</abbr><expan>et</expan></choice> redoubtez de toutes les
+            <lb/>nations.
+            <lb/>Dieu nous donne sa paix.
+          
+                </p>
+          
+          <lb/><!-- votre texte, structuré ligne par ligne, en respectant les sauts de page du texte original -->
+      </div>
+    </body>
+    </text>
+  </group>
+
+    <back>
+      <div><p><!-- commentaires d'ordres généraux --></p></div>
+    </back>
+  </text>
+</TEI>
